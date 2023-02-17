@@ -2,8 +2,6 @@
 
 # Electronics workshop
 
-&nbsp;
-
 On today's workshop I have worked with [Nokia 5110 LCD](https://www.sparkfun.com/products/10168). I have previous experience with electronics and I have asked TAs whether it would be alright to work with the display istead.
 
 I wired the display according to the [this guide](https://learn.sparkfun.com/tutorials/graphic-lcd-hookup-guide#hardware-assembly--hookup) and have used the Adafruit [library](https://github.com/adafruit/Adafruit-PCD8544-Nokia-5110-LCD-library) recommended for this LCD.
@@ -25,7 +23,7 @@ I wired the display according to the [this guide](https://learn.sparkfun.com/tut
 
 ![IMG_WIRING](https://user-images.githubusercontent.com/23638332/219662598-7c8848bf-0d9b-4b61-8faa-35ee4d8a4b5e.jpg)
 
-(Different wiring)
+(Different wiring than the guide mentioned above)
 
 &nbsp;
 
@@ -38,10 +36,6 @@ Thid indeed did work! The display was now working as expected, displaying a demo
 &nbsp;
 
 ![IMG_LOGO](https://user-images.githubusercontent.com/23638332/219656977-49bbf5fd-14e9-43d3-8364-23f24cf609f7.jpg)
-
-&nbsp;
-
-
 
 &nbsp;
 
